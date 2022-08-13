@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-<img src='./Images/Sample1.png'>
-<img src='./Images/Sample2.png'>
+<img src='./Images/Sample 1.png'>
+<img src='./Images/Sample 2.png'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
